@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "userId": "mb3squx0",
+      "username": "Kiril",
+      "password": "$2b$10$/8Ob2.Xn0.VztOGER6QtReNs2QracOpImKGgc0Xv/Hz6dQn2VqnvK",
+      "avatar": ""
+    },
+    {
+      "userId": "mb6b7wbc",
+      "username": "1234",
+      "password": "$2b$10$P3jizxXuecN3v747GFm8/.h31ejbPIvhLu6koX/iTaZYLw/KlCLUa",
+      "avatar": ""
+    },
+    {
+      "userId": "mb6bp71h",
+      "username": "12343",
+      "password": "$2b$10$ali/ET6Gr0WrjjAVzYETaeojtOueTTUzxPsBCQAfIQ01L7OEn0/vm",
+      "avatar": "",
+      "email": "meyster@gmail.com"
+    },
+    {
+      "userId": "mb6bs4gf",
+      "username": "123456",
+      "password": "$2b$10$L3CgPTGY.S5EVtdzpq9bFOV9wPs.IyOypW0XqxPmJExbDvG3ZgKia",
+      "avatar": "",
+      "email": "kiril@gmail.com"
+    }
+  ]
+}

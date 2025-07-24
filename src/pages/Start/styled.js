@@ -9,7 +9,7 @@ color: var(--main-text-color);
 export const BtnWrap = styled.div`
 
 `
-export const SingIn = styled(Link)`
+export const SignIn = styled(Link)`
     padding: 8px 16px;
     font-size: 16px;
     color: #1E1E1E;

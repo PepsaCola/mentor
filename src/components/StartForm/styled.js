@@ -32,8 +32,10 @@ export const Input = styled.input`
 export const BtnWrap = styled.div`
     display: flex;
     gap: 16px;
+    
 `
-export const SingUp = styled(Link)`
+
+export const SignUp = styled(Link)`
     background-color: transparent;
     border: none;
     padding: 12px;
@@ -45,7 +47,7 @@ export const SingUp = styled(Link)`
     cursor: pointer;
     text-align: center;
 `
-export const SingUpBtn = styled.button`
+export const SignUpBtn = styled.button`
     border: none;
     padding: 12px;
     box-sizing: border-box;
@@ -57,7 +59,7 @@ export const SingUpBtn = styled.button`
     font-weight: 400;
 `
 
-export const SingInBtn = styled.button`
+export const SignInBtn = styled.button`
     color: #F5F5F5;
     background-color: #2C2C2C;
     border-radius: 8px;
